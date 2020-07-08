@@ -2,15 +2,26 @@ h1 {
     color: #46260c;
     text-align: center;
   }
-  h2 {
+h2 {
     font-style: italic;
     text-align: center;
     color: #194e34;
   }
-  p {
+p {
     color: #68343f;
   }
-  body {
+body {
     background-color: #935aa1;
     font-family: sans-serif;
   }
+.intro 
+    {
+    font-style: italic;
+    color: chartreuse;
+    }  
+.author {
+        color: red;
+      }
+p.author {
+        font-size: 12px;
+      }   
