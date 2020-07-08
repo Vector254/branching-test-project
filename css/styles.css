@@ -1,4 +1,15 @@
-h1 
-{
-    color: #33C5FF;
-}
+h1 {
+    color: #46260c;
+    text-align: center;
+  }
+  h2 {
+    font-style: italic;
+    text-align: center;
+    color: #194e34;
+  }
+  p {
+    color: #68343f;
+  }
+  body {
+    background-color: #935aa1;
+  }
